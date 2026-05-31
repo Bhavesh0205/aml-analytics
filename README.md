@@ -1,6 +1,7 @@
 # aml-analytics
-
 [![Tests](https://github.com/Bhavesh0205/aml-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/Bhavesh0205/aml-analytics/actions/workflows/ci.yml)
+[![PyPI version](https://badge.fury.io/py/aml-analytics.svg)](https://pypi.org/project/aml-analytics/)
+[![Downloads](https://pepy.tech/badge/aml-analytics/month)](https://pepy.tech/project/aml-analytics)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
